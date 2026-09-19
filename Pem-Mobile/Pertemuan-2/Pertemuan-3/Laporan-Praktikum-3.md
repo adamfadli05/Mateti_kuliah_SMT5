@@ -40,4 +40,5 @@ Bukti:
 <img src="image-5.png" width=50%/>
 
 
-<video controls src="20260919-1637-00.9865970.mp4" width="50%" title="Title"></video>
+App Gif :
+<img src="cv app.gif" width="50%"/>
