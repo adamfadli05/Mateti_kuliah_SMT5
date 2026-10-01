@@ -32,3 +32,9 @@ Langkah 1 : Instalasi Laci Pustaka
 ![alt text](image-8.png)
 Langkah 2 :Konfigurasi laci di App.js\
 ![alt text](pemob2.gif)
+
+PRAKTIKUM 3: Navigasi Laci
+![alt text](image-9.png)
+
+Langkah 2: Konfigurasi Drawer di `App.js`
+![alt text](pemob3.gif)
